@@ -35,7 +35,7 @@ body {
     left: 10px;
 }
 
-#login_form {
+.layui-form {
     padding: 0 30px;
 }
 
